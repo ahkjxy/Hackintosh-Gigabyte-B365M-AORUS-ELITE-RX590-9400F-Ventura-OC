@@ -10,3 +10,10 @@
 - Monitor	AOC 4K
 - Mouse	Logitech G PRO WIRELESS
 - Keyboard	jingzao k1
+- 安装的系统 13.4.1
+
+## 目前问题
+- 睡眠不能唤醒，空了在解决
+- 其它基本都正常，没有发现问题。
+
+## EFI文件到家上传
